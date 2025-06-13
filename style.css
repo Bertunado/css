@@ -39,7 +39,6 @@ body {
 .login-container h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: rgba(255, 255, 255, 0.05);
 }
 
 .login-container p {
