@@ -509,7 +509,7 @@ body.login{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url('https://bertunado.github.io/css/img/capa_login.jpg');
+    background: url('https://bertunado.github.io/css/img/capa_login.png');
     background-size: cover;
     background-position: center;
 }
