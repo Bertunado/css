@@ -41,7 +41,7 @@ body {
 .login-container h1 {
     font-size: 2rem;
     margin-bottom: 1rem;
-    color: black;
+    color: black !important;
 }
 
 .login-container p {
@@ -528,6 +528,7 @@ body.login{
 .login-container h1 {
     font-size: 36px;
     text-align: center;
+    color: black !important;
 }
 
 .input-box{
